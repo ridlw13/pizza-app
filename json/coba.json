@@ -1,0 +1,26 @@
+
+[
+{
+      "nama" : "Ridlwan",
+      "umur" : 20,
+      "nrp" : "173040009",
+      "lulus" : true,
+      "hobby" : ["coding","gaming"],
+      "pembimbing" : {
+            "pembimbing1" : "Adnan Hadiyana",
+            "pembimbing2" : "Adam Permadi"
+      }
+},
+{
+      "nama" : "Ridlwan",
+      "umur" : 20,
+      "nrp" : "173040009",
+      "lulus" : true,
+      "hobby" : ["coding","gaming"],
+      "pembimbing" : {
+            "pembimbing1" : "Adnan Hadiyana",
+            "pembimbing2" : "Adam Permadi"
+      }
+}
+
+]
